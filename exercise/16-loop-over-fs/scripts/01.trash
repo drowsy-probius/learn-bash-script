@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "FAILURE!!!"
+exit 1

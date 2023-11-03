@@ -1,0 +1,17 @@
+total 64K
+drwxr-xr-x 16 abc abc 4.0K Nov  4 00:30 .
+drwxr-xr-x  4 abc abc 4.0K Nov  3 23:00 ..
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:21 00-template
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:11 01-execute
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:12 02-variable
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:12 03-variable2
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:15 04-argument
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:20 05-brace-expansion
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:32 06-default-value
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:50 07-command-substitution
+drwxr-xr-x  2 abc abc 4.0K Nov  3 23:59 08-environment-variable
+drwxr-xr-x  2 abc abc 4.0K Nov  4 00:03 09-exit-codes
+drwxr-xr-x  2 abc abc 4.0K Nov  4 00:07 10-array-1
+drwxr-xr-x  2 abc abc 4.0K Nov  4 00:09 11-array-2
+drwxr-xr-x  2 abc abc 4.0K Nov  4 00:27 12-streams
+drwxr-xr-x  2 abc abc 4.0K Nov  4 00:30 13-pipe
