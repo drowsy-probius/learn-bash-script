@@ -23,3 +23,10 @@ bash.sh: line 7: not_exists_command: command not found
 + echo 'Done!'
 
 ```
+
+# 참고
+
+```bash
+$ {command} 2>&1 # stderr를 stdout으로 던지기
+$ {command} > /dev/null # stdout 버리기
+```
