@@ -11,6 +11,8 @@
 - sort
 - df
 - du
+- touch
+- xargs
 - ncdu [*]
 - kill
 - ps
