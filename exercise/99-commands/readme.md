@@ -17,6 +17,10 @@
 - kill
 - ps
 - watch
+- tar
+- cp
+- mv
+- rm
 - curl [*]
 - wget [*]
 - chmod
