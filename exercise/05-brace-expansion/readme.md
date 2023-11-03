@@ -9,6 +9,6 @@ aa ab ac ad ae af
 ```
 
 
-# Appendix
+# 참고
 
 https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html
