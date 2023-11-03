@@ -1,4 +1,4 @@
-# 00-template
+# 13-pipe
 
 pipe에 대해 실습합니다.
 

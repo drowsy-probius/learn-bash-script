@@ -3,10 +3,12 @@
 리눅스 계열에서 자주 사용하는 명령어 목록
 
 - man (또는 {command} --help)
+- cat
 - less
 - more
 - grep
 - egrep [*]
+- sort
 - df
 - du
 - ncdu [*]
