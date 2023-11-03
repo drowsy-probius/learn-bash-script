@@ -16,6 +16,7 @@
 - ncdu [*]
 - kill
 - ps
+- watch
 - curl [*]
 - wget [*]
 - chmod
