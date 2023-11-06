@@ -33,3 +33,8 @@ Hello! World!
 https://github.com/denysdovhan/bash-handbook
 
 https://www.davidpashley.com/articles/writing-robust-shell-scripts/
+
+https://www.linux.co.kr/bbs/board.php?bo_table=lecture&wr_id=2092&sca=%EB%A6%AC%EB%88%85%EC%8A%A4&page=121
+
+https://www.linux.co.kr/bbs/board.php?bo_table=lecture&wr_id=2107&sca=%EB%A6%AC%EB%88%85%EC%8A%A4&page=120
+
