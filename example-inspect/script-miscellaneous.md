@@ -8,7 +8,7 @@ sample
 ├── init.sh
 ├── switch.sh
 │
-│ # 공통 함수 선언
+│ # 공용 함수 선언
 ├── launch_functions.sh
 │ # 컨테이너가 사용하는 브릿지 네트워크 인터페이스 목록 출력
 ├── map_nic_and_container.sh
@@ -86,7 +86,7 @@ docker ps | grep -E '(blue|green)' | awk '{print $1}' | xargs docker rm -f
 
 ## `lanuch_functions.sh`
 
-유틸 함수가 정의되어 있다.
+공용 함수가 정의되어 있다.
 
 ```bash
 

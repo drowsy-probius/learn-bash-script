@@ -27,7 +27,7 @@ sample
 │   └── index.js
 │ # 앱 초기 설정 및 앱 실행 (web-api, api-gateway)
 ├── init.sh
-│ # 공통 함수 선언
+│ # 공용 함수 선언
 ├── launch_functions.sh
 │ # 컨테이너가 사용하는 브릿지 네트워크 인터페이스 목록 출력
 ├── map_nic_and_container.sh
