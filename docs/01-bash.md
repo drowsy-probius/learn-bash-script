@@ -12,7 +12,7 @@
 
 ```bash
 $ cat /etc/passwd | grep "$UID"
-k123s4564h:x:1000:1000:k123,,,:/home/k123s456h:/bin/bash
+ubuntu-user:x:1000:1000:ubuntu-user,,,:/home/ubuntu-user:/bin/bash
 ```
 
 참고로 Mac의 기본 쉘은 zsh이고 `/usr/bash` 경로에 bash가 설치되어 있긴 하지만 구버전(2.x)인 경우가 있음.
